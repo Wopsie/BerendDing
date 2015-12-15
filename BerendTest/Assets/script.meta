@@ -1,7 +1,13 @@
 fileFormatVersion: 2
+<<<<<<< Updated upstream:BerendTest/Assets/script.meta
 guid: b8ad243126bbe40bc96deff49cb4443a
 folderAsset: yes
 timeCreated: 1450182930
+=======
+guid: c8264c63c4e734dd99724c5c12191127
+folderAsset: yes
+timeCreated: 1450182686
+>>>>>>> Stashed changes:BerendTest/Assets/Scripts.meta
 licenseType: Free
 DefaultImporter:
   userData: 
